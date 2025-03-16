@@ -31,3 +31,5 @@ The setup is as follows: The RP2040 with the LCD sits inside the gauge pod and i
 The circuitry for interfacing the sensor was a bit fiddly ... be sure to connect the thermistor via a pull-down resistor (I used 1k Ohm)
 
 Getting the old sensor out and installing the new one was a bit tricky because of the limited space + I have large hands and only had the car on jack stands. I would definitely recommend a long 27mm socket and some extensions.
+
+Using snippets (mainly the driver part) from this repository: https://github.com/waveshareteam/RP2040-Touch-LCD-1.28
