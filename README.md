@@ -5,7 +5,7 @@ So my inspiration was obviously the fantastic gauge kit from Rotarytronics! But 
 
 I used the following hardware:
 
-- Waveshare RP2040 1.28" LCD Touchscreen + custom 3D printed gauge pod (I can send you the files, if you are interested)
+- Waveshare RP2040 1.28" LCD Touchscreen + custom 3D printed gauge pod (based on https://www.printables.com/model/538771-rp2040-lcd-128-msa)
 - Bosch 0261230340 combined oil pressure and temperature sensor, you should be able to find the datasheet by searching for the partnumber
 - Bosch F 02U B00 751-01 5 pin trapez connector for connecting the sensor
 - 1/4" NPT to M10x1.0 thread adaptor (oil filter housing is 1/4" NPT inner thread, sensor has M10x1.0 outer thread), I got mine from speedingparts.de, but you should be able to find similar ones on aliexpress
